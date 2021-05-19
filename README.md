@@ -1,6 +1,6 @@
 # Programación en Entornos Distribuidos
 
-## Examen de Convocatoria Ordinaria (2019/2020)
+## Examen de Convocatoria Ordinaria (2020/2021)
 
 Repositorio para el examen de la convocatoria ordinaria de *Programación en Entornos Distribuidos*, asignatura de segundo curso del *Grado en Ingeniería en Tecnología de Telecomunicación* de la UPV/EHU.
 
